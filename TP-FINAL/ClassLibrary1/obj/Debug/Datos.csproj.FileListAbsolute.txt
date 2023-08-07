@@ -1,0 +1,18 @@
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\bin\Debug\Entidades.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\bin\Debug\Entidades.pdb
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\obj\Debug\Datos.csproj.AssemblyReference.cache
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\obj\Debug\Datos.csproj.CopyComplete
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\bin\Debug\Entidades.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\bin\Debug\Entidades.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

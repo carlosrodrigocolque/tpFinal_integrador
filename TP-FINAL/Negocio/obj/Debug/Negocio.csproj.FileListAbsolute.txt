@@ -1,0 +1,22 @@
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\bin\Debug\Negocio.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\bin\Debug\Negocio.pdb
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\bin\Debug\ClassLibrary1.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\bin\Debug\Entidades.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\bin\Debug\ClassLibrary1.pdb
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\bin\Debug\Entidades.pdb
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\obj\Debug\Negocio.dll
+E:\Jair\Facultad\3er Cuatrimestre\Programacion 3\TP FINAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\bin\Debug\ClassLibrary1.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\bin\Debug\Entidades.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\bin\Debug\ClassLibrary1.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\bin\Debug\Entidades.pdb
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\rodri\Desktop\Documento de Carlos Rodrigo\TP FINAL\Negocio\obj\Debug\Negocio.pdb
